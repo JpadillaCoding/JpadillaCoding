@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [CurlSafe](https://github.com/JpadillaCoding/CurlSafe-Frontend)
   
-- 💻 I'm Currently volunteer at [HackForLa](https://www.hackforla.org/)
+- 💻 I'm Currently a volunteer at [HackForLa](https://www.hackforla.org/)
 
 - 🌱 I’m currently learning **React Native, Redux, Typescript, and Next.js**
 
