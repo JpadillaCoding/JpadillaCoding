@@ -7,10 +7,12 @@
 
 
 - 🔭 I’m currently working on [CurlSafe](https://github.com/JpadillaCoding/CurlSafe-Frontend)
+  
+- 💻 I'm Currently volunteer at [HackForLa](https://www.hackforla.org/)
 
-- 🌱 I’m currently learning **React Native and Redux**
+- 🌱 I’m currently learning **React Native, Redux, Typescript, and Next.js**
 
-- 📝 I seomtimes write articles on [Medium](https://medium.com/@jose.apadilla99)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@jose.apadilla99)
 
 - 📫 How to reach me **jose.apadilla99@gmail.com**
 
