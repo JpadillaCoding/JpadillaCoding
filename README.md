@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpadillacoding&label=Profile%20views&color=0e75b6&style=flat" alt="jpadillacoding" /> </p>
 
 
-- 🔭 I’m currently working on [CurlSafe](https://github.com/JpadillaCoding/CurlSafe-Frontend)
+- 🔭 I’m currently working on [Personal Website](https://github.com/JpadillaCoding/Personal-Website)
   
 - 💻 I'm Currently a volunteer at [HackForLa](https://www.hackforla.org/)
 
-- 🌱 I’m currently learning **React Native, Redux, Typescript, and Next.js**
+- 🌱 I’m currently learning **Redux, Typescript, and Next.js**
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@jose.apadilla99)
 
