@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Padilla</h1>
-<h2 align="center">Full Stack Dev</h2>
+<h2 align="center">Software Engineer</h2>
 <p align="center">Always creating new things🛠️</p>
 
 
