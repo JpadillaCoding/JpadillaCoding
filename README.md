@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Visualizer](https://jpadillacoding.github.io/Visualizer/)
   
-- 💻 I'm Currently a volunteer at [HackForLa](https://www.hackforla.org/)
+- 💻 I'm Currently a Software Engineer volunteer at [HackForLa](https://www.hackforla.org/)
 
 - 🌱 I’m currently learning **Redux, Typescript, and Next.js**
 
