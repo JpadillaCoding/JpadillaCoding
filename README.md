@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpadillacoding&label=Profile%20views&color=0e75b6&style=flat" alt="jpadillacoding" /> </p>
 
 
-- 🔭 I’m currently working on [Visualizer](https://jpadillacoding.github.io/Visualizer/)
+- 🔭 I’m currently working on [LeetCode](https://github.com/JpadillaCoding/hackerRankPractice)
   
-- 💻 I'm Currently a Software Engineer volunteer at [HackForLa](https://www.hackforla.org/)
+- 💻 I'm Currently a Software Engineer volunteer at [HackForLa](https://www.hackforla.org/) and [FlowLobby](https://www.flowlobby.app/)
 
-- 🌱 I’m currently learning **Redux, Typescript, and Next.js**
+- 🌱 I’m currently Honing my skills in **Redux, Typescript, and React Native**
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@jose.apadilla99)
 
